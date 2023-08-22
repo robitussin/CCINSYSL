@@ -7,7 +7,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINSYSL-0ba01b779be54aea
 | Folder Name | Topic |
 | :---         |     :---:      |       
 | week_1   | Basic Python Tutorial, Introduction to Google Collab and Jupyter Notebook |
-| week_2   | |
+| week_2   | Artificial Intelligence and Machine Learning |
 | week_3   | |
 | week_4   |  |
 | week_5  | |
