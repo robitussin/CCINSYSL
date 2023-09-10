@@ -9,7 +9,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINSYSL-0ba01b779be54aea
 | week_1   | Basic Python Tutorial, Introduction to Google Collab and Jupyter Notebook |
 | week_2   | Artificial Intelligence and Machine Learning |
 | week_3   | k-Nearest Neighbours (kNN)|
-| week_4   |  |
+| week_4   | Simple Linear Regression |
 | week_5  | |
 | week_6   |   |
 | week_7-8   | |
