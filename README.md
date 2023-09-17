@@ -10,7 +10,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINSYSL-0ba01b779be54aea
 | week_2   | Artificial Intelligence and Machine Learning |
 | week_3   | k-Nearest Neighbours (kNN)|
 | week_4   | Simple Linear Regression |
-| week_5  | |
+| week_5  | Multiple Linear Regression |
 | week_6   |   |
 | week_7-8   | |
 | week_9   | |
