@@ -11,8 +11,8 @@ Course Outline: https://believed-bongo-319.notion.site/CCINSYSL-0ba01b779be54aea
 | week_3   | k-Nearest Neighbours (kNN)|
 | week_4   | Simple Linear Regression |
 | week_5  | Multiple Linear Regression |
-| week_6   | Logistic Regression |
-| week_7-8   | K-Means|
+| week_6-7   | Logistic Regression |
+| week_8   | K-Means |
 | week_9   | |
 | week_10   |  |
 | week_11   |  |
